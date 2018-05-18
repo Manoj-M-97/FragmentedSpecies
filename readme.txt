@@ -8,9 +8,8 @@ Project By-
 
 Description:
 Our website is an exhibitional website which is based on the rare, endangered, critically endangered, Vulnerable and extinct animals.
-Our moto was to make the user interface look good and use polygons to display the animals.
+Our moto was to make the user interface look good for which we have used polygons to display the animals.
 We have videos based on the animals embedded in. We also have links to Facebook, Instagram and Twitter.
-We have the threat and treat for all the animals.
+We have the information of threats to and treatments for all the animals.
 We have the link to World Wildlife Fund, and links to travel destinations which is suggested based on the habitat of the animal.
-Our website is posted on GitHub with the link: https://github.com/Milan-J-S/Fragmented-Species
 
