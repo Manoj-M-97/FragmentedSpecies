@@ -13,5 +13,6 @@ About the Repository:
 Different features which are implemented are in different files which are named accordingly.
 The folder named 'Assets' has all the media from which it has to be accessed.
 
-
+To Run:
+This has to be hosted on a server (For Ex: Apache Server) as the feedback is linked to a database backend connected through PHP.
 
